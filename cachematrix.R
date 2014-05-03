@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Programming Assignment 2
 
 ## here is a function that makes a  "matrix" object that can cache its inverse.
 
